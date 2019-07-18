@@ -1,3 +1,21 @@
+## Frases de Breaking Bad en React con Hooks
+
+Proyecto en el que he usado los [Hooks](https://es.reactjs.org/docs/hooks-intro.html)
+
+Si quieres echar un ojo de como funciona esta app puedes cotillear [AQUI](jj-breaking-bad-react-frase.netlify.com)
+
+
+
+
+
+
+
+
+
+
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
